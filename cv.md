@@ -40,8 +40,10 @@ Github: https://github.com/DruidGreeneyes</br>
 <br/>
 <br/>
 
-<div id='center'>**Have Some Buzzwords:** Java, ​
- Scala, Python, Analytics, Spark, HBase, DevOps, AWS, Scripting</div>
+<div id='center'>
+**Have Some Buzzwords:** Java, ​
+ Scala, Python, Analytics, Spark, HBase, DevOps, AWS, Scripting
+</div>
 
 ### Things I’ve Done
 **I currently consult with Aitheras**​ in support of their work for the US Dept. of Justice. I implemented a Random­Index Vector library in Java, translated it into Scala and Python, and built a functioning text ­analysis engine on AWS using Spark and HBase. To do this I learned Java, Scala, and Python, and how Random­Index Vectors work (from research papers), and learned Spark, HBase, HDFS, and Zookeeper. I’m currently working to implement hLDA in Java.<br/>
