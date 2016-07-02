@@ -1,5 +1,4 @@
 ---
-title: Resume / CV
 layout: page
 ---
 <style>
