@@ -6,37 +6,38 @@ layout: page
 h1 {
   text-align: center;
 }
-body {
-  font-size: 12pt;
-}
 #left {
-    width: 100;
-    float: left;
+  width: 100;
+  text-align: left;
+  float: left;
 }
 #right {
-    width: 100;
-    text-align: right;
-    float: right;
+  text-align: right;
+  float: right;
 }
 #center {
-    text-align: center;
+  float: center;
 }
 </style>
 
 # Software and Analytics Engineer
-<div id='left'>
+<span id='left'>
 Josh Carton<br/>
-druidgreeneyes@gmail.com<br/>
-</div>
-<div id='right'>
+druidgreeneyes@gmail.com
+</span>
+<span id='right'>
 Skype: carton.joshua<br/>
-Medium: https://medium.com/@DruidGreeneyes
-Github: https://github.com/DruidGreeneyes
-</div>
+Medium: [https://medium.com/@DruidGreeneyes](https://medium.com/@DruidGreeneyes)<br/>
+Github: [https://github.com/DruidGreeneyes](https://github.com/DruidGreeneyes)<br/>
+</span>
 <br/>
 <br/>
 <br/>
-<center>Java, ​Scala, Python, Analytics, Spark, HBase, DevOps, AWS, Scripting</center>
+<br/>
+<br/>
+<span id='center'>
+**Have some buzzwords:** Java, ​Scala, Python, Analytics, Spark, HBase, DevOps, AWS, Scripting
+</span>
 <br/>
 
 ### Things I’ve Done
@@ -55,4 +56,4 @@ Github: https://github.com/DruidGreeneyes
 ### TL;DR
 **I am a generalist.**​ I am familiar with and can reason critically about everything from economics to quantum mechanics, cognitive science to film and literary theory, and I can synthesize cross­disciplinary insight better than almost anybody. I have written and used scripts in Bash, Batch, C#, F#, Common Lisp, and JavaScript, and I have played around with more programming languages than most people can name. I like to explore, and I work at seeing how things function, not what they look like. I always appreciate a good joke.
 
-<div id='center'>References available on request.</div>
+<span id='center'>References available on request.</span>
